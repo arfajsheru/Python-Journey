@@ -46,5 +46,22 @@ s1.getage()
 
 
 
+# Static methods
+# Methods thar don't use the self parameter (work at class level).
+
+class student:
+    def __init__(self):
+        pass
+
+    @staticmethod  # Decorator
+    def hello():
+        print("Hello Hii! Arfaj")
+
+s1 = student()
+s1.hello()
+
+# Decorater: Decoraters allows us to wrap another function in order to extend the behaviour of the wrapperd function, withour permanently modifying it.
+
+
 
 

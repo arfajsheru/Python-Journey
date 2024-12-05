@@ -1,0 +1,39 @@
+ 1)Prime Factorization: Ek number ke saare prime factors find karne ka program likho.
+
+ 2)LCM & GCD: Do numbers ka LCM aur GCD calculate karo.
+
+ 3)Fibonacci Number Check: Ek program banao jo check kare ki given number Fibonacci series ka part hai ya nahi.
+
+ 4)Quadratic Equation Solver: Ek program likho jo quadratic equation ke roots find kare.
+
+ 5)Perfect Number: Ek number check karo ki wo perfect number hai ya nahi (sum of its divisors is equal to the number).
+
+ 6)Amicable Numbers: Do numbers ko amicable check karne ka program banao.
+
+ 7)Sum of Nth Powers: Ek program likho jo kisi number ke digits ka nth power ka sum calculate kare.
+
+ 8)Decimal to Binary Conversion: Ek decimal number ko binary me convert karo bina built-in function ke.
+
+ 9)Pascal’s Triangle: Ek program banao jo Pascal’s triangle print kare.
+
+ 10)Magic Square: Ek program likho jo magic square generate kare (sum of rows, columns, diagonals equal).
+
+ 11)Armstrong Number: Ek number check karo ki Armstrong number hai ya nahi.
+
+ 12)Collatz Conjecture: Ek number ke liye Collatz sequence generate karne ka program likho.
+
+ 13)Palindrome Number: Ek number palindrome hai ya nahi, ye check karo.
+
+ 14)Nth Prime Number: Ek function likho jo nth prime number return kare.
+
+ 15)Counting Digits: Ek number me kitne digits hain, ye count karo bina len() function ke.
+
+ 16)Sum of Series: Ek program banao jo 1 + 1/2 + 1/3 + … + 1/n ki series ka sum calculate kare.
+
+ 17)Binary Search Implementation: Ek sorted list me binary search implement karo.
+
+ 18)Greatest Product: Ek list ke kisi bhi teen numbers ka greatest product find karo.
+
+ 19)Matrix Multiplication: Do matrices ka multiplication karne ka program banao.
+ 
+ 20)Solve Equations: Linear equations ka solution find karne ka program likho using matrices.
