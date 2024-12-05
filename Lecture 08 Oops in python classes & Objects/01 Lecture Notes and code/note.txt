@@ -1,0 +1,20 @@
+1) What is class?
+-> Class is a blueprint or template used to create objects. It is used when we have to define the properties (data) and behavior (functions) of an object together. This concept is very important in Object-Oriented Programming (OOP).
+
+2) What is object?
+-> An object is a representation of a real-world entity that is an instance of a class. Objects have properties (attributes) and methods (functions) that define the behavior of that object.
+
+3) what is attributes?
+-> Attributes are the properties of an object or class, which define the characteristics of that object. These are basically data that represents the state of the object.
+
+4) what is constructor?
+-> Constructor is a special function which is automatically called while creating an object and sets the initial properties of the object.
+
+5) What is instance variable?
+-> Instance variable is a property that is unique for every object (instance). It is stored inside the object and can take different values ​​depending on the object.
+
+6) what is class variable?
+-> Class variable is the variable which is defined within the class and is shared by all objects (instances). That is, the value of a single variable is same for every object and if the value changes then it is applied to all objects
+
+7) What is method?
+-> A method is a function that is defined within a class, and we use it with objects of the class. Methods are defined like functions, but they are object-specific.
