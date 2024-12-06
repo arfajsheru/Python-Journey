@@ -1,18 +1,18 @@
- 1)Prime Factorization: Ek number ke saare prime factors find karne ka program likho.
+ ✓1)Prime Factorization: Ek number ke saare prime factors find karne ka program likho.
 
  2)LCM & GCD: Do numbers ka LCM aur GCD calculate karo.
 
- 3)Fibonacci Number Check: Ek program banao jo check kare ki given number Fibonacci series ka part hai ya nahi.
+ ✓3)Fibonacci Number Check: Ek program banao jo check kare ki given number Fibonacci series ka part hai ya nahi.
 
  4)Quadratic Equation Solver: Ek program likho jo quadratic equation ke roots find kare.
 
- 5)Perfect Number: Ek number check karo ki wo perfect number hai ya nahi (sum of its divisors is equal to the number).
+ ✓5)Perfect Number: Ek number check karo ki wo perfect number hai ya nahi (sum of its divisors is equal to the number).
 
  6)Amicable Numbers: Do numbers ko amicable check karne ka program banao.
 
  7)Sum of Nth Powers: Ek program likho jo kisi number ke digits ka nth power ka sum calculate kare.
 
- 8)Decimal to Binary Conversion: Ek decimal number ko binary me convert karo bina built-in function ke.
+ ✓ 8)Decimal to Binary Conversion: Ek decimal number ko binary me convert karo bina built-in function ke.
 
  9)Pascal’s Triangle: Ek program banao jo Pascal’s triangle print kare.
 
