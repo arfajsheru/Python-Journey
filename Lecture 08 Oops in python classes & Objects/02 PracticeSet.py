@@ -2,9 +2,7 @@
 
 # Create student class that takes name & marks of 3 subjects as arguments in constructor Then createa a method to print the average.
 
-
 class Student:
-    
     def __init__(self,sub1,sub2,sub3,name):
         self.sub1 = sub1
         self.sub2 = sub2
