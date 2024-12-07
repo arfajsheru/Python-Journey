@@ -1,6 +1,5 @@
 #  8)Binary to decimal Conversion: Ek decimal number ko binary me convert karo bina built-in function ke.
 
-
 def binary_to_decimal(binary):
     decimal = 0
     binary = str(binary)
