@@ -1,6 +1,4 @@
 # nouber of occrences 
-
-
 def number_of_occ():
     try:
         list_size = int(input("Enter the length of your number list: "))
@@ -10,6 +8,7 @@ def number_of_occ():
     except ValueError:
         print("Please enter a valid integer for list length.")
         return
+    
     mylist = []
     for i in range(1, list_size + 1):
         num = int(input(f"Enter your number {i}: "))

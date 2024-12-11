@@ -18,7 +18,6 @@ import math
 # important point
 def is_perfect_square(x):
     s = int(math.sqrt(x))
-    print(s)
     return (s * s) == x
 
 def is_fibonacci_number(n):

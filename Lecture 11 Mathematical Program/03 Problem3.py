@@ -6,7 +6,7 @@ def is_perfect_number(n):
         if(num % i == 0):
             print(i)
             divisior_sum += i
-
+    
     if divisior_sum == n:
         return True
     else:

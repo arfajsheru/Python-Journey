@@ -10,6 +10,7 @@ def counting_digit(num):
         count = count + 1
         num //= 10
     return count
+
 num = int(input("Please enter your number: "))
 result = counting_digit(num)
 print(result)
