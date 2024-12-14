@@ -37,3 +37,102 @@
  19)Matrix Multiplication: Do matrices ka multiplication karne ka program banao.
  
  20)Solve Equations: Linear equations ka solution find karne ka program likho using matrices.
+
+
+
+1. ATM System Simulation
+Design a class ATM that allows a user to:
+Check their balance.
+Withdraw money (with a daily withdrawal limit).
+Deposit money.
+Print a transaction history.
+Add functionality to handle multiple accounts using a dictionary. Implement proper exception handling for invalid operations (e.g., insufficient balance, invalid input).
+
+2. University Management System
+Create classes to manage a university:
+Classes: Person, Student, Professor, Course.
+Student and Professor inherit from Person.
+A Course class manages course details and tracks enrolled students and the professor assigned to the course.
+Add functionality to enroll students in a course, assign a professor to a course, and display the course roster.
+
+3. E-Commerce System
+Design a basic e-commerce system:
+Classes: User, Product, Order, ShoppingCart.
+Users can add products to their cart and place orders.
+Each Order tracks the products, total cost, and delivery status.
+Add discount codes and implement logic to apply them.
+Include a mechanism to restock products when inventory is low.
+
+4. Hotel Reservation System
+Implement a hotel booking system:
+Classes: Hotel, Room, Guest, Booking.
+A Room class tracks room type (e.g., single, double), availability, and price.
+A Guest can book a room through the Hotel class, and the system should handle conflicts (e.g., double booking).
+Include functionality to display available rooms and cancel bookings.
+
+5. Library Management System
+Create a program to manage a library:
+Classes: Library, Book, Member, Librarian.
+Members can borrow and return books. Each Book should have attributes for title, author, and availability.
+Track fines for overdue books.
+A librarian can add or remove books from the library inventory.
+
+6. Banking System with Loans
+Develop a banking system with:
+Classes: Bank, Account, Loan.
+The Account class supports deposit, withdrawal, and balance check.
+The Loan class allows users to apply for loans, tracks the loan amount, interest rate, and repayment status.
+Include a method to calculate monthly EMIs (Equated Monthly Installments).
+
+7. Employee Management System
+Create a system to manage employees:
+Classes: Employee, Manager, Team.
+Employees have attributes like name, ID, and salary. Managers can add employees to their team.
+Add functionality to give bonuses based on performance reviews.
+Calculate the total salary of a team.
+
+8. Zoo Management System
+Build a zoo management system:
+Classes: Zoo, Animal, Cage, Visitor.
+The Animal class tracks species, diet, and cage number.
+Visitors can view animals and buy tickets for specific animal zones.
+Implement logic to feed animals and manage animal transfers between cages.
+
+9. Flight Reservation System
+Create a flight booking system:
+Classes: Flight, Passenger, Booking, Seat.
+Flights have attributes like flight number, destination, and available seats.
+Passengers can reserve seats, and the system should prevent double booking.
+Include a method to display a seating chart for a flight.
+
+10. Social Media Platform
+Simulate a basic social media platform:
+Classes: User, Post, Comment, Message.
+Users can follow/unfollow each other.
+Posts can have comments and likes.
+Add a messaging feature where users can send private messages to each other.
+
+11. Game Development Framework
+Create a framework for a 2D game:
+Classes: Game, Player, Enemy, Level.
+The Player class should manage attributes like health, position, and score.
+The Enemy class should have methods for attacking the player.
+Include a system to progress through levels, where each level has a different set of challenges.
+
+12. Healthcare Management System
+Design a system for a clinic:
+Classes: Doctor, Patient, Appointment, MedicalRecord.
+Patients can book appointments with doctors, and their medical records are stored securely.
+Doctors can view the appointment schedule and medical history of patients.
+Add functionality for prescription generation and follow-up appointment tracking.
+
+13. Event Management System
+Create an event management system:
+Classes: Event, Venue, Attendee, Organizer.
+Organizers can create events and assign venues.
+Attendees can register for events, and the system should check for seat availability.
+Implement functionality for cancellation and notifications.
+Challenge Scenarios
+Real-Time Messaging System: Build a basic messaging platform where users can send, receive, and delete messages.
+Blockchain Simulation: Simulate a basic blockchain with classes for Block and Chain. Implement methods for adding transactions, verifying the chain, and hashing blocks.
+RPG Battle System: Create a role-playing game battle system where players and enemies take turns attacking each other, and health points are tracked.

@@ -2,8 +2,6 @@
 # Hiding the implementation details of a class and only showing the essential features to the user.
 
 from abc import ABC, abstractmethod
-
-
 class Shape(ABC):
     @abstractmethod
     def area(self):
@@ -12,7 +10,6 @@ class Shape(ABC):
     @abstractmethod
     def perimeter(self):
         pass
-
 
 class Circle(Shape):
     def __init__(self,radius):
